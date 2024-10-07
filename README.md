@@ -1,5 +1,11 @@
 # Handy Buddy - Service Marketplace Application 🛠️🧑‍🔧
 
+Important Notice ⚠️
+
+The source code for this project has not been uploaded because this thesis has not yet been presented. Once the thesis is defended and approved, the code will be made available.
+
+---
+
 ## Description 📄
 Handy Buddy is a web-based application designed to connect service providers with users seeking various services, such as home maintenance, automotive assistance, and cleaning services. The platform enables users to:
 - Create and book services 📝
